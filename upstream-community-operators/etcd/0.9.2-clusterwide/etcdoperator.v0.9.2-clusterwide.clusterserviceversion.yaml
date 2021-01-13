@@ -144,7 +144,7 @@ spec:
         x-descriptors:
         - urn:alm:descriptor:io.kubernetes.phase:reason
       version: v1beta2
-  description: "The etcd Operater creates and maintains highly-available etcd clusters\
+  description: "The etcd Operator creates and maintains highly-available etcd clusters\
     \ on Kubernetes, allowing engineers to easily deploy and manage etcd clusters\
     \ for their applications.\n\netcd is a distributed key value store that provides\
     \ a reliable way to store data across a cluster of machines. It\xE2\u20AC\u2122\
